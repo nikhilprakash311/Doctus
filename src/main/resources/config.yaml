@@ -1,0 +1,17 @@
+http:
+  port: "8081"
+
+sfdc:
+  username: "nikhil.s.prakash@apisero.com"
+  password: "Apisero12345##"
+  token: "qCWFnRoGqy55HpVJRjUwp4C2q"
+  
+db:
+  host: "mudb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"  
+  
+file:
+  accountsDir: "C:/Users/NIKHIL/Desktop/Mulesoft Training/APDevFundamentals4.4_studentFiles_SP_05oct2021/resources"  
